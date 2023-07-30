@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<div>
+    <form method="POST" action="">
+       {% csrf_token %} 
+       <!-- #malicios attack protectot -->
+       {{form.as_p}}
+       <!-- wraps all the elements on p tag -->
+       <input type="submit" value="Submit" />
+    </form>
+</div>
+
+{% endblock content %}
