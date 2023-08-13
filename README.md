@@ -4,7 +4,10 @@ A Django-based application for artists to come, share their art, discuss and gai
 # Learning Outcomes
  <li>Building web applications using the Django framework.</li>
  <li>Navigating from one page to another</li>
- <li>Using in built Django forms</li>
+ <li>Using in-built Django forms and models to collect the data</li>
+ <li>Implementing chat rooms</li>
+ <li>Letting users edit their profiles and the room that they have hosted</li>
+ <li>Browsing Different topics</li>
 
 # Home page
 <img width="929" alt="image" src="https://github.com/sarishalekhi20/ArtBud/assets/121943591/dcfa3b34-36ba-4688-b2b5-01afb90fd0d1">
